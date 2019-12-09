@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mojave"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/trbutton"
+        android:layout_width="75dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="169dp"
+        android:layout_marginEnd="167dp"
+        android:background="@drawable/ic_transactionhistory" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler"
+        android:layout_width="399dp"
+        android:layout_height="591dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="6dp"></androidx.recyclerview.widget.RecyclerView>
+
+</RelativeLayout>

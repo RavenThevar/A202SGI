@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1049341881200",
+    "firebase_url": "https://ewallet-4fadf.firebaseio.com",
+    "project_id": "ewallet-4fadf",
+    "storage_bucket": "ewallet-4fadf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049341881200:android:5be768ee3ee5e9f206bdb5",
+        "android_client_info": {
+          "package_name": "com.example.ewallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049341881200-qrb31tq5765353v1me3nj8q0m3tiuqt5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ewallet",
+            "certificate_hash": "c1b5808e3b61b0171ce66d81194d4a6226309737"
+          }
+        },
+        {
+          "client_id": "1049341881200-4v9nm73ov4bffeqq34le7enbf5vkhrc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWfubZ9bfQ88YChCDchoxF5cisOUqsUOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049341881200-4v9nm73ov4bffeqq34le7enbf5vkhrc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
